@@ -10829,7 +10829,6 @@ main p {
   max-width: 21rem;
 }
 
-section div div div {
-  width: 75px;
+section#secondary div div div {
   height: 75px;
 }/*# sourceMappingURL=index.css.map */
