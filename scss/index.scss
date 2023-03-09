@@ -28,8 +28,9 @@ main {
 section#secondary {
   div {
     div {
-      div {
-        height: 75px;
+      div:nth-child(1) {
+        height: 52px;
+        flex-basis: 52px;
       }
     }
   }

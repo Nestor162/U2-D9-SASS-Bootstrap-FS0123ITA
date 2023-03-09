@@ -11906,6 +11906,7 @@ main p {
   max-width: 21rem;
 }
 
-section#secondary div div div {
-  height: 75px;
+section#secondary div div div:nth-child(1) {
+  height: 52px;
+  flex-basis: 52px;
 }/*# sourceMappingURL=index.css.map */
