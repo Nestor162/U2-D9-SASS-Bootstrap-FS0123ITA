@@ -10823,4 +10823,8 @@ nav div div div#bell {
 nav div div div#bell span {
   top: 4px;
   right: 4px;
+}
+
+main p {
+  max-width: 21rem;
 }/*# sourceMappingURL=index.css.map */
