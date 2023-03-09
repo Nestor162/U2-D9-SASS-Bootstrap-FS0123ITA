@@ -10815,4 +10815,7 @@ textarea.form-control-lg {
 }
 nav img {
   width: 50px;
+}
+nav div div {
+  display: flex;
 }/*# sourceMappingURL=index.css.map */
