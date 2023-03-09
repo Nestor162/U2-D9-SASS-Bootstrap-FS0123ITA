@@ -10827,4 +10827,9 @@ nav div div div#bell span {
 
 main p {
   max-width: 21rem;
+}
+
+section div div div {
+  width: 75px;
+  height: 75px;
 }/*# sourceMappingURL=index.css.map */
