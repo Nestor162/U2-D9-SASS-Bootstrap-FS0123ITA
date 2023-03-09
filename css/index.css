@@ -10816,6 +10816,7 @@ textarea.form-control-lg {
 nav img {
   width: 50px;
 }
-nav div div {
-  display: flex;
+nav div div div#bell {
+  width: 50px;
+  height: 50px;
 }/*# sourceMappingURL=index.css.map */
